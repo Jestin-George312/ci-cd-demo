@@ -1,0 +1,11 @@
+# Ignore specific Python files
+random1.py
+dpsymp.py
+fmfpkx.py
+
+# Ignore Python cache
+__pycache__/
+
+# Optional: Ignore logs or temp files if you generate any
+*.log
+*.tmp
